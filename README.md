@@ -2,6 +2,15 @@
 #### By Lilia BEN BACCAR and Amale NOKRI
 Using Convolutional Neural Networks to create artistic imagery by separating and recombining image content and style.
 
+<p align="center">
+  <img src="https://github.com/lbenbaccar/Neural-Style-Transfer-using-CNN/blob/main/input.jpg" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/lbenbaccar/Neural-Style-Transfer-using-CNN/blob/main/output.png" width="200"/>
+</p>
+
+
 ### Files
 Before explaining the project, here are the description of each file.
 | Files | Description |
@@ -15,7 +24,7 @@ Before explaining the project, here are the description of each file.
 
 # References
 > Gatys, Leon A. and al. (2002). *Image Style Transfer Using Convolutional Neural Networks*. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 2414-2423
-> 
+
 > Yongchen, Jing and al. (2019). *Neural Style Transfer: A Review*. IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 11, pp. 3365-3385, 1 Nov. 2020.
 
 > Gatys, Leon A. and al. (2015). *A Neural Algorithm of Artistic Style*.
