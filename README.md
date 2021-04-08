@@ -3,11 +3,11 @@
 Using Convolutional Neural Networks to create artistic imagery by separating and recombining image content and style.
 
 <p align="center">
-  <img src="https://github.com/lbenbaccar/Neural-Style-Transfer-using-CNN/blob/main/input.jpg" width="200"/>
+  <img src="https://github.com/lbenbaccar/Neural-Style-Transfer-using-CNN/blob/main/input.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/lbenbaccar/Neural-Style-Transfer-using-CNN/blob/main/output.png" width="200"/>
+  <img src="https://github.com/lbenbaccar/Neural-Style-Transfer-using-CNN/blob/main/output.jpg" width="200"/>
 </p>
 
 
