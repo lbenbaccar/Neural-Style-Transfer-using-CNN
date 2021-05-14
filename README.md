@@ -11,12 +11,6 @@ Using Convolutional Neural Networks to create artistic imagery by separating and
 </p>
 
 
-### Files
-Before explaining the project, here are the description of each file.
-| Files | Description |
-| ------ | ------ |
-| `{}.py` | ... |
-
 ### Library requirements  
   - Basics : `numpy` (1.19.2), `pandas` (1.2.1)
   - Visualization : `seaborn` (0.11.1), `matplotlib` (3.3.2), `IPython` (7.20.0) 
