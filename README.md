@@ -22,3 +22,5 @@ Using Convolutional Neural Networks to create artistic imagery by separating and
 > Yongchen, Jing and al. (2019). *Neural Style Transfer: A Review*. IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 11, pp. 3365-3385, 1 Nov. 2020.
 
 > Gatys, Leon A. and al. (2015). *A Neural Algorithm of Artistic Style*.
+
+> ProGamerGov Github : https://github.com/ProGamerGov/neural-style-pt
